@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TestimOni/OneDrive%20-%20Ulster%20University/Desktop/OptimumJewelryPricing/Notebooks/mlruns/0/17ba5b40359f4f3cbbef706f266d940a/artifacts
+end_time: 1748066424292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17ba5b40359f4f3cbbef706f266d940a
+run_name: LinearRegression
+run_uuid: 17ba5b40359f4f3cbbef706f266d940a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748066406089
+status: 3
+tags: []
+user_id: TestimOni

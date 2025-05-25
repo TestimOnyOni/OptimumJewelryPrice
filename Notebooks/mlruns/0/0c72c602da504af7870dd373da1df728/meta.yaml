@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TestimOni/OneDrive%20-%20Ulster%20University/Desktop/OptimumJewelryPricing/Notebooks/mlruns/0/0c72c602da504af7870dd373da1df728/artifacts
+end_time: 1748068148024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c72c602da504af7870dd373da1df728
+run_name: XGBoost
+run_uuid: 0c72c602da504af7870dd373da1df728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748068128931
+status: 3
+tags: []
+user_id: TestimOni

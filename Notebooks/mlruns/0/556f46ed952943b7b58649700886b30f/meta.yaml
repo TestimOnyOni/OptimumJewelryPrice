@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/TestimOni/OneDrive%20-%20Ulster%20University/Desktop/OptimumJewelryPricing/Notebooks/mlruns/0/556f46ed952943b7b58649700886b30f/artifacts
+end_time: 1748067400498
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 556f46ed952943b7b58649700886b30f
+run_name: Decision Tree
+run_uuid: 556f46ed952943b7b58649700886b30f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748067380380
+status: 3
+tags: []
+user_id: TestimOni
